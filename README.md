@@ -1,5 +1,5 @@
 # cihnnhyk
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
+> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
